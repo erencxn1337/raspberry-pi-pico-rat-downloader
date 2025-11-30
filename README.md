@@ -4,7 +4,7 @@ Works: Windows 11, 10
 -
 Total time : 25 sec
 -
-How to use it?
+# How to use it?
 
 Just edit the download link. You can change the name of the downloaded file if you want. By default, it downloads the file as windowss.exe.
 
