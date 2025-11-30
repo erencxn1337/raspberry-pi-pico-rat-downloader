@@ -23,5 +23,5 @@ Runs the payload.
 Counts for 4 seconds and closes PowerShell.
 
 for help; 
-
+-
 discord: watchoutcowboy
