@@ -1,6 +1,7 @@
 This script is a Rubber Ducky script for a Raspberry Pi Pico.
 -
 Works: Windows 11, 10
+Total time : 25 sec
 -
 How to use it?
 
