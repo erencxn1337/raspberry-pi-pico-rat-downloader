@@ -1,4 +1,5 @@
 This script is a Rubber Ducky script for a Raspberry Pi Pico.
+-
 
 How to use it?
 
